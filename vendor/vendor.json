@@ -3,6 +3,12 @@
 	"ignore": "test",
 	"package": [
 		{
+			"checksumSHA1": "CaHXPCh0HcBZv+c7i+LNalAjoHw=",
+			"path": "github.com/meission/log4go",
+			"revision": "3baf5e0c10dc65d43f55ea8ea20e12f7a15d5c32",
+			"revisionTime": "2017-06-27T15:31:52Z"
+		},
+		{
 			"checksumSHA1": "GtamqiJoL7PGHsN454AoffBFMa8=",
 			"path": "golang.org/x/net/context",
 			"revision": "d866cfc389cec985d6fda2859936a575a55a3ab6",
