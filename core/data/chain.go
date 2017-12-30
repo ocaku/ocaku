@@ -9,6 +9,6 @@ type Chain interface {
 type Container struct {
 	Height   int64  `json:"height"`
 	Previous string `json:"previous"` // previous hash
-	Block    []*Block
+	Block    map[string]*Block
 	Nodes    map[string]int8 `json:"nodes"` // Now IP consensus
 }
